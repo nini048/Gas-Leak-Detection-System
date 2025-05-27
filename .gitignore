@@ -1,0 +1,15 @@
+# Arduino-specific
+*.ino.bin
+*.ino.elf
+*.ino.hex
+*.o
+*.d
+build/
+*.tmp
+
+# macOS
+.DS_Store
+
+# Optional: Bỏ qua file Word nếu không cần
+# *.doc.DS_Store
+*.doc
